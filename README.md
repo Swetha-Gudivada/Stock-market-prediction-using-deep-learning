@@ -115,11 +115,11 @@ LSTM Model for stock forecasting and buying simulation inside Tensorflow JS, so 
 
 Or, go to [stock-forecasting-js](stock-forecasting-js)!
 
-![alt text](screenshot/1.png)
+![alt text](stock-forecasting-js/screenshot/1.png)
 
 2. Check hyper parameters you want to tune,
 
-![alt text](screenshot/2.png)
+![alt text](stock-forecasting-js/screenshot/2.png)
 
 3. You can upload any stock CSV, downloaded from Yahoo finance or any website. Any error, please open an issue.
 
@@ -127,9 +127,9 @@ Or, go to [stock-forecasting-js](stock-forecasting-js)!
 
 5. After done training, it will predict where to buy and sell,
 
-![alt text](screenshot/3.png)
+![alt text](stock-forecasting-js/screenshot/3.png)
 
 Comparing histogram and loss graph,
 
-![alt text](screenshot/4.png)
+![alt text](stock-forecasting-js/screenshot/4.png)
 
