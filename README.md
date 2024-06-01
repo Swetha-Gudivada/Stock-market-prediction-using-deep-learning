@@ -95,7 +95,7 @@
 
 [Data Exploration](misc)
 
-  1.Stock market study on TESLA stock, [tesla-study.ipynb](tesla-study.ipynb)
+  1.Stock market study on TESLA stock, [tesla-study.ipynb](misc/tesla-study.ipynb)
   
   2.Outliers study using K-means, SVM, and Gaussian on TESLA stock, [outliers.ipynb](outliers.ipynb)
   
