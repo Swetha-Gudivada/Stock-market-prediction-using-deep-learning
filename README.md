@@ -38,3 +38,8 @@
   17.CNN-Seq2seq
   
   18.Dilated-CNN-Seq2seq
+
+[Stacking](stacking)
+  1.Deep Feed-forward Auto-Encoder Neural Network to reduce dimension + Deep Recurrent Neural Network + ARIMA + Extreme Boosting Gradient Regressor
+  
+  2.Adaboost + Bagging + Extra Trees + Gradient Boosting + Random Forest + XGB
