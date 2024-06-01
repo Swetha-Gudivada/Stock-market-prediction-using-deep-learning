@@ -1,4 +1,4 @@
-#Enhancing Stock Market Prediction Using Deep Learning
+# Enhancing Stock Market Prediction Using Deep Learning
 
-#CONTENTS
-[Deep Learning models](
+# CONTENTS
+[Deep Learning models](deep-learning)
