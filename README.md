@@ -95,10 +95,10 @@
 
 [Data Exploration](misc)
 
-  1.Stock market study on TESLA stock, (tesla-study.ipynb)
+  1.Stock market study on TESLA stock, [tesla-study.ipynb](tesla-study.ipynb)
   
-  2.Outliers study using K-means, SVM, and Gaussian on TESLA stock, (outliers.ipynb)
+  2.Outliers study using K-means, SVM, and Gaussian on TESLA stock, [outliers.ipynb](outliers.ipynb)
   
-  3.Overbought-Oversold study on TESLA stock, (overbought-oversold.ipynb)
+  3.Overbought-Oversold study on TESLA stock, [overbought-oversold.ipynb](overbought-oversold.ipynb)
   
-  4.Which stock you need to buy? (which-stock.ipynb)
+  4.Which stock you need to buy? [which-stock.ipynb](which-stock.ipynb)
