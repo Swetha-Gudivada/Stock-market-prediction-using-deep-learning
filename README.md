@@ -111,7 +111,7 @@ LSTM Model for stock forecasting and buying simulation inside Tensorflow JS, so 
 
 ## How-to
 
-1. Clone this folder and just open [index.html](index.html),
+1. Clone this folder and just open [index.html](stock-forecasting-js/index.html),
 
 Or, go to [stock-forecasting-js](stock-forecasting-js)!
 
