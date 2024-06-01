@@ -44,3 +44,51 @@
   1.Deep Feed-forward Auto-Encoder Neural Network to reduce dimension + Deep Recurrent Neural Network + ARIMA + Extreme Boosting Gradient Regressor
   
   2.Adaboost + Bagging + Extra Trees + Gradient Boosting + Random Forest + XGB
+
+[Agents](agent)
+  
+  1.Turtle-trading agent
+  
+  2.Moving-average agent
+  
+  3.Signal rolling agent
+  
+  4.Policy-gradient agent
+  
+  5.Q-learning agent
+  
+  6.Evolution-strategy agent
+  
+  7.Double Q-learning agent
+  
+  8.Recurrent Q-learning agent
+  
+  9.Double Recurrent Q-learning agent
+  
+  10.Duel Q-learning agent
+  
+  11.Double Duel Q-learning agent
+  
+  12.Duel Recurrent Q-learning agent
+  
+  13.Double Duel Recurrent Q-learning agent
+  
+  14.Actor-critic agent
+  
+  15.Actor-critic Duel agent
+  
+  16.Actor-critic Recurrent agent
+  
+  17.Actor-critic Duel Recurrent agent
+  
+  18.Curiosity Q-learning agent
+  
+  19.Recurrent Curiosity Q-learning agent
+  
+  20.Duel Curiosity Q-learning agent
+  
+  21.Neuro-evolution agent
+  
+  22.Neuro-evolution with Novelty search agent
+  
+  23.ABCD strategy agent
