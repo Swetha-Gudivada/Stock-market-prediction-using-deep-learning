@@ -102,3 +102,17 @@
   3.Overbought-Oversold study on TESLA stock, [overbought-oversold.ipynb](misc/overbought-oversold.ipynb)
   
   4.Which stock you need to buy? [which-stock.ipynb](misc/which-stock.ipynb)
+
+# RESULTS
+
+# Stock forecasting JS
+
+LSTM Model for stock forecasting and buying simulation inside Tensorflow JS, so everyone can try!
+
+# How To
+
+  1. Clone this folder and just open index.html,
+  2. Check hyper parameters you want to tune,
+  3. You can upload any stock CSV, downloaded from Yahoo finance or any website. Any error, please open an issue.
+  4. Train the model and wait it's fitting!
+  5. After done training, it will predict where to buy and sell,
