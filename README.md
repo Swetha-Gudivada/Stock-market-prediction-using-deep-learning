@@ -2,10 +2,11 @@
 
 # CONTENTS
 [Deep Learning models](deep-learning)
+  
   1.LSTM
   2.LSTM Bidirectional
   3.LSTM 2-Path
-GRU
+  4.GRU
 GRU Bidirectional
 GRU 2-Path
 Vanilla
